@@ -1,0 +1,16 @@
+.card {
+    width: 16em;
+    height: 18em;
+}
+
+#mes {
+    letter-spacing: 1.6px;
+}
+
+p {
+    font-size: 14px;
+}
+
+a{
+    width: 14em;
+}
